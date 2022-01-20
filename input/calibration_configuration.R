@@ -1,0 +1,130 @@
+
+# species 0 (anchoveta) ------------------------
+
+# used for calculation of natural mortality
+species.egg.stage.duration.sp0 = 2 # in days
+
+observed.biomass.file.sp0 = observed/surveys.csv
+observed.biomass.ndtPerYear.sp0 = 12
+observed.biomass.cutoff.size.sp0 = 5
+
+
+fisheries.catchatlength.file.sp0 = observed/catchatlength-anchoveta.csv
+fisheries.catchatlength.ndtPerYear.sp0 = 12
+
+fisheries.yield.file.sp0 = observed/yield.csv
+fisheries.yield.ndtPerYear.sp0 = 12
+
+# species 1 (merluza) ------------------------
+
+# used for calculation of natural mortality
+species.egg.stage.duration.sp1 = 2
+
+observed.biomass.file.sp1 = observed/surveys.csv
+observed.biomass.ndtPerYear.sp1 = 12
+observed.biomass.cutoff.size.sp1 = 5
+
+fisheries.yield.file.sp1 = observed/yield.csv
+fisheries.yield.ndtPerYear.sp1 = 12
+
+fisheries.selectivity.type.sp1 = 3
+fisheries.selectivity.l50.sp1 = 38.2
+fisheries.selectivity.l75.sp1 = 44.7
+
+# species 2 (sardina) ------------------------
+
+# used for calculation of natural mortality
+species.egg.stage.duration.sp2 = 2
+
+observed.biomass.file.sp2 = observed/surveys.csv
+observed.biomass.ndtPerYear.sp2 = 12
+observed.biomass.cutoff.size.sp2 = 5
+
+fisheries.yield.file.sp2 = observed/yield.csv
+fisheries.yield.ndtPerYear.sp2 = 12
+
+fisheries.selectivity.type.sp2 = 3
+fisheries.selectivity.l50.sp2 = 9.5
+fisheries.selectivity.l75.sp2 = 11
+
+# species 3 (jurel) ------------------------
+
+# used for calculation of natural mortality
+species.egg.stage.duration.sp3 = 2
+
+observed.biomass.file.sp3 = observed/surveys.csv
+observed.biomass.ndtPerYear.sp3 = 12
+observed.biomass.cutoff.size.sp3 = 5
+
+fisheries.catchatlength.file.sp3 = observed/catchatlength-jurel.csv
+fisheries.catchatlength.ndtPerYear.sp3 = 1
+
+fisheries.yield.file.sp3 = observed/yield.csv
+fisheries.yield.ndtPerYear.sp3 = 12
+
+# species 4 (caballa) ------------------------
+
+# used for calculation of natural mortality
+species.egg.stage.duration.sp4 = 2
+
+observed.biomass.file.sp4 = observed/surveys.csv
+observed.biomass.ndtPerYear.sp4 = 12
+observed.biomass.cutoff.size.sp4 = 5
+
+fisheries.yield.file.sp4 = observed/yield.csv
+fisheries.yield.ndtPerYear.sp4 = 12
+
+fisheries.selectivity.type.sp4 = 3
+fisheries.selectivity.l50.sp4 = 31
+fisheries.selectivity.l75.sp4 = 33
+
+# species 5 (mesopelagicos) ------------------------
+
+species.egg.stage.duration.sp5 = 2
+
+observed.biomass.file.sp5 = observed/surveys.csv
+observed.biomass.ndtPerYear.sp5 = 12
+observed.biomass.cutoff.size.sp5 = 2
+
+fisheries.yield.file.sp5 = observed/yield.csv
+fisheries.yield.ndtPerYear.sp5 = 12
+
+# species 6 (munida) ------------------------
+
+# used for calculation of natural mortality
+species.egg.stage.duration.sp6 = 2
+
+observed.biomass.file.sp6 = observed/surveys.csv
+observed.biomass.ndtPerYear.sp6 = 12
+observed.biomass.cutoff.size.sp6 = 5
+
+fisheries.yield.file.sp6 = observed/yield.csv
+fisheries.yield.ndtPerYear.sp6 = 12
+
+# species 7 (pota) ------------------------
+
+# used for calculation of natural mortality
+species.egg.stage.duration.sp7 = 2
+
+observed.biomass.file.sp7 = observed/surveys.csv
+observed.biomass.ndtPerYear.sp7 = 12
+observed.biomass.cutoff.size.sp7 = 5
+
+fisheries.yield.file.sp7 = observed/yield.csv
+fisheries.yield.ndtPerYear.sp7 = 12
+
+fisheries.selectivity.type.sp7 = 3
+fisheries.selectivity.l50.sp7 = 28
+fisheries.selectivity.l75.sp7 = 32
+
+# species 8 (euphausidos) ------------------------
+
+# used for calculation of natural mortality
+species.egg.stage.duration.sp8 = 2
+
+observed.biomass.file.sp8 = observed/surveys.csv
+observed.biomass.ndtPerYear.sp8 = 12
+observed.biomass.cutoff.size.sp8 = 0
+
+fisheries.yield.file.sp8 = observed/yield.csv
+fisheries.yield.ndtPerYear.sp8 = 12

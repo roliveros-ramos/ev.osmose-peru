@@ -1,0 +1,63 @@
+movement.species.map0     = anchoveta
+movement.variable.map0    = prob
+movement.nsteps.year.map0 = 4
+movement.initialAge.map0  = 0
+movement.lastAge.map0     = 3
+movement.file.map0        = maps/anchoveta.nc
+
+movement.species.map4     = merluza
+movement.variable.map4    = prob
+movement.nsteps.year.map4 = 4
+movement.initialAge.map4  = 0
+movement.lastAge.map4     = 12
+movement.file.map4        = maps/merluza.nc
+
+movement.species.map8     = sardina
+movement.variable.map8    = prob
+movement.nsteps.year.map8 = 4
+movement.initialAge.map8  = 0
+movement.lastAge.map8     = 8
+movement.file.map8        = maps/sardina.nc
+
+movement.species.map3     = jurel
+movement.variable.map3    = prob
+movement.nsteps.year.map3 = 4
+movement.initialAge.map3  = 0
+movement.lastAge.map3     = 12
+movement.file.map3        = maps/jurel.nc
+
+movement.species.map1     = caballa
+movement.variable.map1    = prob
+movement.nsteps.year.map1 = 4
+movement.initialAge.map1  = 0
+movement.lastAge.map1     = 10
+movement.file.map1        = maps/caballa.nc
+
+movement.species.map5     = mesopelagicos
+movement.variable.map5    = prob
+movement.nsteps.year.map5 = 4
+movement.initialAge.map5  = 0
+movement.lastAge.map5     = 2
+movement.file.map5        = maps/mesopelagicos.nc
+
+movement.species.map6     = munida
+movement.variable.map6    = prob
+movement.nsteps.year.map6 = 4
+movement.initialAge.map6  = 0
+movement.lastAge.map6     = 4
+movement.file.map6        = maps/munida.nc
+
+movement.species.map7     = pota
+movement.variable.map7    = prob
+movement.nsteps.year.map7 = 4
+movement.initialAge.map7  = 0
+movement.lastAge.map7     = 2
+movement.file.map7        = maps/pota.nc
+
+movement.species.map2     = euphausidos
+movement.variable.map2    = prob
+movement.nsteps.year.map2 = 12
+movement.initialAge.map2  = 0
+movement.lastAge.map2     = 1
+movement.file.map2        = maps/euphausidos.nc
+
