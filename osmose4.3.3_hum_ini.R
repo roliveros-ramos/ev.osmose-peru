@@ -88,7 +88,6 @@ species.biomass.nsteps.year.sp11 = 24
 species.biomass.nsteps.year.sp12 = 24
 
 # Accessibility to fish
-
 species.accessibility2fish.sp9  = 0.230003097
 species.accessibility2fish.sp10 = 0.072308097
 species.accessibility2fish.sp11 = 0.002845689
